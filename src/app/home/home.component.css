@@ -1,0 +1,11 @@
+.hero-container{
+	margin: 0 auto ;
+}
+
+.hero{
+	width: 100%;
+	height:90vh;
+	object-fit: cover;
+}
+
+ 
